@@ -1,4 +1,4 @@
-![Alt text](https://raw.githubusercontent.com/RSE-E/Better_Hats_Pack/refs/heads/main/logo.png?token=GHSAT0AAAAAAC2VESA4FFFFKJ3VOC4MP34CZZ56PUA)
+![Alt text](https://raw.githubusercontent.com/RSE-E/Better_Hats_Pack/refs/heads/main/logo.png?token=GHSAT0AAAAAAC2VESA5FU45KZPOP7Q7UIU6ZZ57T5Q)
 # Better Hats Pack
 Better-Hats-Pack is a mod for Among Us ModdingUs mod which adds its new & ports existing hats.
 ## Features
