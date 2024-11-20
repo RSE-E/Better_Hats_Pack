@@ -24,6 +24,10 @@ Better_Hats_Pack is compatible Only with ModdingUs Among Us mod and works only w
 - 5.Select mods zip file.
 - 6.Press "quick restart" button.
 
+# License
+
+This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
+
 # Credits
 
 - Matveydo3456
