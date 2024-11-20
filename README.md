@@ -1,4 +1,4 @@
-# Better_Hats_Pack
+# Better Hats Pack
 Better-Hats-Pack is a mod for Among Us ModdingUs mod which adds its new hats.
 ## Features
 - 13 new hats
@@ -15,7 +15,7 @@ Better_Hats_Pack is compatible Only with ModdingUs Among Us mod and works only w
 |-------------|-------------|-------------|
 |  2024.10.6    | 1.2.5 | [Download]() |
 ## Installation Steps
-    1.Download the correct ZIP [release]() based on your ModdingUs version.
+    1.Download the correct ZIP [release](https://github.com/RSE-E/Better_Hats_Pack/releases) based on your ModdingUs version.
     2.Open ModdingUs.
     3.Go to "mods" tab.
     4.Click "import" button.
