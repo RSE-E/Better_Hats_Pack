@@ -23,3 +23,9 @@ Better_Hats_Pack is compatible Only with ModdingUs Among Us mod and works only w
 - 4.Click "import" button.
 - 5.Select mods zip file.
 - 6.Press "quick restart" button.
+
+# Credits
+
+- Matveydo3456
+- GuestTheDeveloper
+- RSE
